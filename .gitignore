@@ -1,0 +1,5 @@
+# Project exclude paths
+/base-admin/target/
+/base-common/target/
+/base-mbg/target/
+/base-security/target/
